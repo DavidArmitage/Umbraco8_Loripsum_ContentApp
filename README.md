@@ -1,1 +1,0 @@
-Umbraco8_Loripsum_ContentApp
