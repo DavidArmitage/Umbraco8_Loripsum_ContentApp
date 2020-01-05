@@ -1,9 +1,3 @@
------------------------------------------------
-Umbraco8 Loripsum ContentApp
------------------------------------------------
-This is a content app to assist developer with creating dummy test content. It's very time consuming opening Loripsum websites and it also takes up valuable tab space. I have managed to build an app within Umbraco which quickly allows you to spin up test content. I'm hoping this will save you devs a load of time. 
-The app is designed for developers so it's only activated for administrator users. This is however configurable in the package.manifest file. See documentation for further details.
-
 -------------------------------------
 CONFIGURATION INSTRUCTIONS
 -------------------------------------
@@ -13,9 +7,11 @@ NO CONFIGURATION REQUIRED
 This app should work out of the box and no extra configuration is required.
 
 
-PLEASE SUPPORT THIS APP MY UP VOTING 
+PLEASE SHOW YOUR APPRECIATION
 -------------------------------------
-If you like this content app then please feel free to show your appreciation by voting.
+If you like this content app then please feel free to show your appreciation by voting and leaving comments here.
+https://our.umbraco.com/packages/backoffice-extensions/loripsum-content-app/
+
 
 
 WHERE TO REPORT ISSUES
